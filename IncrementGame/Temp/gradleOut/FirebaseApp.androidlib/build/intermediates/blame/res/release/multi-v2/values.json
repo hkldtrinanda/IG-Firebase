@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Kampus Merdeka\\Unity Project\\IncrementGame-main\\IncrementGame\\Temp\\gradleOut\\FirebaseApp.androidlib\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Kampus Merdeka\\Unity Project\\IncrementGame-main\\IncrementGame\\Temp\\gradleOut\\FirebaseApp.androidlib\\res\\values\\google-services.xml",
+                    "from": {
+                        "startLines": "8,2,5,7,6,3,4",
+                        "startColumns": "2,2,2,2,2,2,2",
+                        "startOffsets": "890,306,560,782,663,387,485",
+                        "endColumns": "141,79,101,106,117,96,73",
+                        "endOffsets": "1029,383,659,886,778,481,556"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,713",
+                        "endColumns": "143,81,103,108,119,98,75",
+                        "endOffsets": "194,276,380,489,609,708,784"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Kampus Merdeka\\Unity Project\\IncrementGame-main\\IncrementGame\\Temp\\gradleOut\\FirebaseApp.androidlib\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Kampus Merdeka\\Unity Project\\IncrementGame-main\\IncrementGame\\Temp\\gradleOut\\FirebaseApp.androidlib\\res\\values\\google-services.xml",
+                    "from": {
+                        "startLines": "8,2,5,7,6,3,4",
+                        "startColumns": "2,2,2,2,2,2,2",
+                        "startOffsets": "890,306,560,782,663,387,485",
+                        "endColumns": "141,79,101,106,117,96,73",
+                        "endOffsets": "1029,383,659,886,778,481,556"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,713",
+                        "endColumns": "143,81,103,108,119,98,75",
+                        "endOffsets": "194,276,380,489,609,708,784"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">834685719153-k8jp0jjsv06l7lpl2aphv86j0e222a18.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">834685719153</string>
+    <string name="google_api_key" translatable="false">AIzaSyAMhkHFEAqfjvXKHwGa1pVr5qkbfmcLNYs</string>
+    <string name="google_app_id" translatable="false">1:834685719153:android:9dac737d5b545fe3f6c1d0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMhkHFEAqfjvXKHwGa1pVr5qkbfmcLNYs</string>
+    <string name="google_storage_bucket" translatable="false">dilo-academy-ig.appspot.com</string>
+    <string name="project_id" translatable="false">dilo-academy-ig</string>
+</resources>
